@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+    .navbar-collapse button{width: 100%;}
+}
+@media (min-width: 768px) {
+    .navbar-collapse button{width: auto;}
+}
